@@ -1,0 +1,202 @@
+[
+  {
+    "index": 0,
+    "pickup_task": "pickup_0",
+    "delivery_task": "delivery_0",
+    "pickup_x": 55.3193922108964,
+    "pickup_y": 10.372156154004431,
+    "delivery_x": 57.24194907612302,
+    "delivery_y": 13.822782753768292,
+    "pickup_time": 191
+  },
+  {
+    "index": 1,
+    "pickup_task": "pickup_1",
+    "delivery_task": "delivery_1",
+    "pickup_x": 31.24690647949314,
+    "pickup_y": 92.68053223438946,
+    "delivery_x": 33.83464089563682,
+    "delivery_y": 19.260457192435076,
+    "pickup_time": 123
+  },
+  {
+    "index": 2,
+    "pickup_task": "pickup_2",
+    "delivery_task": "delivery_2",
+    "pickup_x": 50.970174342220886,
+    "pickup_y": 52.08772053863372,
+    "delivery_x": 69.20245039455433,
+    "delivery_y": 45.144290409852736,
+    "pickup_time": 252
+  },
+  {
+    "index": 3,
+    "pickup_task": "pickup_3",
+    "delivery_task": "delivery_3",
+    "pickup_x": 71.0353326036322,
+    "pickup_y": 36.06918480639808,
+    "delivery_x": 13.313584565995285,
+    "delivery_y": 42.82445635540747,
+    "pickup_time": 168
+  },
+  {
+    "index": 4,
+    "pickup_task": "pickup_4",
+    "delivery_task": "delivery_4",
+    "pickup_x": 78.35746108651138,
+    "pickup_y": 21.805559982995902,
+    "delivery_x": 38.92772188479896,
+    "delivery_y": 95.07055921970476,
+    "pickup_time": 266
+  },
+  {
+    "index": 5,
+    "pickup_task": "pickup_5",
+    "delivery_task": "delivery_5",
+    "pickup_x": 44.140712730455725,
+    "pickup_y": 94.1598766276988,
+    "delivery_x": 48.468737449945884,
+    "delivery_y": 99.32075205518133,
+    "pickup_time": 261
+  },
+  {
+    "index": 6,
+    "pickup_task": "pickup_6",
+    "delivery_task": "delivery_6",
+    "pickup_x": 5.824975929465825,
+    "pickup_y": 97.12098941846816,
+    "delivery_x": 78.90926405842042,
+    "delivery_y": 10.338625021178272,
+    "pickup_time": 148
+  },
+  {
+    "index": 7,
+    "pickup_task": "pickup_7",
+    "delivery_task": "delivery_7",
+    "pickup_x": 44.228628348659015,
+    "pickup_y": 47.55767042260406,
+    "delivery_x": 71.90932890724862,
+    "delivery_y": 39.51935069164298,
+    "pickup_time": 426
+  },
+  {
+    "index": 8,
+    "pickup_task": "pickup_8",
+    "delivery_task": "delivery_8",
+    "pickup_x": 50.70630651133212,
+    "pickup_y": 48.94100145364679,
+    "delivery_x": 45.11788525679916,
+    "delivery_y": 91.49907403340326,
+    "pickup_time": 469
+  },
+  {
+    "index": 9,
+    "pickup_task": "pickup_9",
+    "delivery_task": "delivery_9",
+    "pickup_x": 89.486565309543,
+    "pickup_y": 32.881054135533375,
+    "delivery_x": 72.0488616250673,
+    "delivery_y": 81.50254486510211,
+    "pickup_time": 442
+  },
+  {
+    "index": 10,
+    "pickup_task": "pickup_10",
+    "delivery_task": "delivery_10",
+    "pickup_x": 46.38828703811528,
+    "pickup_y": 16.024495571017074,
+    "delivery_x": 95.04661009231599,
+    "delivery_y": 74.85712076204472,
+    "pickup_time": 366
+  },
+  {
+    "index": 11,
+    "pickup_task": "pickup_11",
+    "delivery_task": "delivery_11",
+    "pickup_x": 76.85690972257741,
+    "pickup_y": 78.13741714242146,
+    "delivery_x": 64.05218235758115,
+    "delivery_y": 87.51508348471637,
+    "pickup_time": 495
+  },
+  {
+    "index": 12,
+    "pickup_task": "pickup_12",
+    "delivery_task": "delivery_12",
+    "pickup_x": 3.8007020021930793,
+    "pickup_y": 45.365224264527725,
+    "delivery_x": 2.6334254269110735,
+    "delivery_y": 52.06466074217766,
+    "pickup_time": 44
+  },
+  {
+    "index": 13,
+    "pickup_task": "pickup_13",
+    "delivery_task": "delivery_13",
+    "pickup_x": 18.602672398273345,
+    "pickup_y": 39.21100492604188,
+    "delivery_x": 34.20513552116395,
+    "delivery_y": 84.30272748818014,
+    "pickup_time": 452
+  },
+  {
+    "index": 14,
+    "pickup_task": "pickup_14",
+    "delivery_task": "delivery_14",
+    "pickup_x": 22.817759906471892,
+    "pickup_y": 72.01432332148272,
+    "delivery_x": 43.02555129732249,
+    "delivery_y": 45.909522467204866,
+    "pickup_time": 431
+  },
+  {
+    "index": 15,
+    "pickup_task": "pickup_15",
+    "delivery_task": "delivery_15",
+    "pickup_x": 69.47973089917207,
+    "pickup_y": 18.324853242912674,
+    "delivery_x": 30.617104417597517,
+    "delivery_y": 62.42756355942012,
+    "pickup_time": 42
+  },
+  {
+    "index": 16,
+    "pickup_task": "pickup_16",
+    "delivery_task": "delivery_16",
+    "pickup_x": 41.021208162749815,
+    "pickup_y": 42.26840884791182,
+    "delivery_x": 83.91038525682804,
+    "delivery_y": 13.390186334841147,
+    "pickup_time": 25
+  },
+  {
+    "index": 17,
+    "pickup_task": "pickup_17",
+    "delivery_task": "delivery_17",
+    "pickup_x": 60.74862309597496,
+    "pickup_y": 83.90282767632064,
+    "delivery_x": 55.987617716821156,
+    "delivery_y": 60.8712194743934,
+    "pickup_time": 366
+  },
+  {
+    "index": 18,
+    "pickup_task": "pickup_18",
+    "delivery_task": "delivery_18",
+    "pickup_x": 72.75440061197982,
+    "pickup_y": 28.333661714938284,
+    "delivery_x": 70.12689574764997,
+    "delivery_y": 19.19459796973121,
+    "pickup_time": 323
+  },
+  {
+    "index": 19,
+    "pickup_task": "pickup_19",
+    "delivery_task": "delivery_19",
+    "pickup_x": 2.467576473132238,
+    "pickup_y": 35.88079649163342,
+    "delivery_x": 51.36552636010697,
+    "delivery_y": 17.395152070699805,
+    "pickup_time": 224
+  }
+]
