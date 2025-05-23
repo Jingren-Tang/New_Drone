@@ -1,0 +1,15 @@
+experiment_id,experiment_name,allow_cross_region,drone_count,total_flight_distance,total_completion_time,completed_tasks,total_tasks,completion_rate,avg_completion_time
+1,exp_01_cross_drone4,True,4,3202.3925868040906,0,0,48,0.0,0
+2,exp_02_cross_drone5,True,5,2968.287662405956,0,0,48,0.0,0
+3,exp_03_cross_drone6,True,6,2816.098409787916,0,0,48,0.0,0
+4,exp_04_cross_drone7,True,7,2696.741631311912,0,0,48,0.0,0
+5,exp_05_cross_drone8,True,8,2426.740014618856,0,0,48,0.0,0
+6,exp_06_cross_drone9,True,9,2210.111003230835,0,0,48,0.0,0
+7,exp_07_cross_drone10,True,10,1855.2738843568216,0,0,48,0.0,0
+8,exp_08_nocross_drone4,False,4,1817.3824856653182,0,0,48,0.0,0
+9,exp_09_nocross_drone5,False,5,1318.2337025010588,0,0,48,0.0,0
+10,exp_10_nocross_drone6,False,6,1784.3423543246388,0,0,48,0.0,0
+11,exp_11_nocross_drone7,False,7,1222.0534222515696,0,0,48,0.0,0
+12,exp_12_nocross_drone8,False,8,1259.5015022944874,0,0,48,0.0,0
+13,exp_13_nocross_drone9,False,9,1669.3962220632852,0,0,48,0.0,0
+14,exp_14_nocross_drone10,False,10,1116.68641316741,0,0,48,0.0,0
