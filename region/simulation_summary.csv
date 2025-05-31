@@ -1,7 +1,7 @@
 drone_count,allow_cross_region,total_delivery_tasks,total_pickup_tasks,total_tasks,avg_tasks_per_drone,efficiency
-2,False,48,48,96,48.0,9.6
-3,False,48,48,96,32.0,9.6
-4,False,41,43,84,21.0,8.4
-6,False,48,48,96,16.0,9.6
-8,False,44,45,89,11.125,8.9
-9,False,48,48,96,10.666666666666666,9.6
+2,True,48,48,96,48.0,9.6
+3,True,48,48,96,32.0,9.6
+4,True,48,48,96,24.0,9.6
+6,True,48,48,96,16.0,9.6
+8,True,48,48,96,12.0,9.6
+9,True,48,48,96,10.666666666666666,9.6
